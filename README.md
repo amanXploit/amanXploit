@@ -11,6 +11,7 @@
 - 🔗 LinkedIn: (https://www.linkedin.com/in/amanrajak01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥** (Bhagavad Gita 2.47)
+
 Translation:
 **You have a right to Perform your Prescribed Duties, But you are not Entitled to the Fruits of your Actions. 
 Never consider yourself to be the cause of the results of your Activities, nor be attached to Inaction.**
