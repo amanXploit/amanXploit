@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Aman Rajak (@amanXploit)
+👋 **Hi, I’m Aman Rajak (@amanXploit)**
 
-## 🚀 About Me  
+🚀 **About Me** 
 - 👀 I’m interested in **Cybersecurity, Ethical Hacking, and Digital Marketing**
 - 🌱 I’m currently learning **Penetration Testing, Networking, and Linux**  
 - 💻 Passionate about **CTFs, Red Teaming, and Open-Source Security Tools**  
 - 🎥 I also create content related to **Cybersecurity & Tech**  
 - 💞️ I’m looking to collaborate on **Security Research & Automation Projects**  
 
-## 📫 How to Reach Me
+📫 **How to Reach Me**
 - 🔗 LinkedIn: (https://www.linkedin.com/in/amanrajak01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥** (Bhagavad Gita 2.47)
