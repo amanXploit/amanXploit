@@ -15,7 +15,6 @@
 Translation:
 
 **You have a right to Perform your Prescribed Duties, But you are not Entitled to the Fruits of your Actions.**
-
 **Never consider yourself to be the cause of the results of your Activities, nor be attached to Inaction.**
 
 <!---
