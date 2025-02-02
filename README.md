@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=amanXploit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![]**कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥** (Bhagavad Gita 2.47))
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amanXploit&limit=5&theme=merko&combine_all_yearly_contributions=true)
@@ -25,13 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=amanXploit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-Translation:
-
-**You have a right to Perform your Prescribed Duties, But you are not Entitled to the Fruits of your Actions.**
-**Never consider yourself to be the cause of the results of your Activities, nor be attached to Inaction.**
-
 <!---
 amanXploit/amanXploit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
